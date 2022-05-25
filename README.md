@@ -1,5 +1,5 @@
 # Curso-GIT
 
-Curso Git y GitHub
+Curso Git y GitHub.
 
-Apuntes y preguntas
+Apuntes y preguntas.
